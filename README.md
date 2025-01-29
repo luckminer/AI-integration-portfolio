@@ -48,12 +48,7 @@ Cloud Native    🌟🌟🌟🌟⟫░░░░░░░░░░░ 82.1%
 AI Integration  🌟🌟🌟🌟⟫░░░░░░░░░░░ 76.8%  
 ```
 
----
 
-### 📊 **GitHub Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)  
-
----
 
 ### 🤝 **Collaborative Innovation**  
 **Let's Engineer Tomorrow's Solutions Today**  
