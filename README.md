@@ -12,12 +12,16 @@
 
 
 
-### 🛠 **Technical Arsenal**  
-| **Backend Engineering** | **Frontend Ecosystems** | **Cloud Infrastructure** |  
-|--------------------------|--------------------------|---------------------------|  
-| Spring Boot, Node.js     | React, Flutter          | AWS, Docker              |  
-| **AI/ML Integration**    | **DevOps Pipeline**     | **Data Architecture**    |  
-| TensorFlow, HuggingFace  | GitHub Actions, Kubernetes | PostgreSQL, Redis       |  
+# 🛠️ **Technical Arsenal**
+
+| **Category**            | **Technologies**                          |
+|--------------------------|-------------------------------------------|
+| **Backend Engineering**  | 🖥️ Spring Boot, Node.js                   |
+| **Frontend Ecosystems**  | 🎨 React, Flutter                         |
+| **Cloud Infrastructure** | ☁️ AWS, Docker, Kubernetes                |
+| **AI/ML Integration**    | 🤖 TensorFlow, PyTorch                    |
+| **DevOps & CI/CD**       | ⚙️ GitHub Actions                         |
+| **Databases**            | 🗃️ PostgreSQL, Redis                     |
 
 ---
 
