@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Sreenu Chandaka 👋
+**Innovative Full-Stack Architect** | **Cloud-Native Solutions Developer** | **AI Integration Specialist**
 
-<!--
-**Sreenu-Chandaka/Sreenu-Chandaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin)]((https://www.linkedin.com/in/sreenuchandaka/))
+[![Portfolio](https://img.shields.io/badge/🚀-Portfolio-blue?style=flat)](https://sreenu-chandaka.github.io/my_portfolio/))
+[![Email](https://img.shields.io/badge/📧-Contact-red?style=flat)](mailto:chandakasreenu0@gmail.com)
 
-Here are some ideas to get you started:
+**Driving Digital Transformation Through**  
+**Full-Stack Excellence & Intelligent Systems**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```diff
++ 𝙁𝙤𝙘𝙪𝙨 𝘼𝙧𝙚𝙖𝙨:
+«Cloud-Native Architecture»  «AI-Enhanced Applications»  «Cross-Platform Solutions»
