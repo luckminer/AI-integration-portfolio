@@ -2,7 +2,7 @@
 **Innovative Full-Stack Architect** | **Cloud-Native Solutions Developer** | **AI Integration Specialist**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin)](https://www.linkedin.com/in/sreenuchandaka/)
-[![Portfolio](https://img.shields.io/badge/🚀-Portfolio-blue?style=flat)](https://sreenu-chandaka.github.io/my_portfolio/))
+[![Portfolio](https://img.shields.io/badge/🚀-Portfolio-blue?style=flat)](https://sreenu-chandaka.github.io/my_portfolio/)
 [![Email](https://img.shields.io/badge/📧-Contact-red?style=flat)](mailto:chandakasreenu0@gmail.com)
 
 **Driving Digital Transformation Through**  
