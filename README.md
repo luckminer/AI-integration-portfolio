@@ -52,8 +52,8 @@ AI Integration  🌟🌟🌟🌟⟫░░░░░░░░░░░ 76.8%
 
 ### 🤝 **Collaborative Innovation**  
 **Let's Engineer Tomorrow's Solutions Today**  
-🌐 Explore my [Portfolio Website](your-portfolio)  
-📬 Reach out via [Email](mailto:your-email) or [LinkedIn](your-linkedin)  
+🌐 Explore my [Portfolio Website](https://sreenu-chandaka.github.io/my_portfolio/)  
+📬 Reach out via [Email](mailto:chandakasreenu0@gmail.com) or [LinkedIn](https://www.linkedin.com/in/sreenuchandaka/)  
 💡 Let's discuss AI-driven architectures or cloud-native transformations!  
 
 ---
