@@ -8,6 +8,4 @@
 **Driving Digital Transformation Through**  
 **Full-Stack Excellence & Intelligent Systems**
 
-```diff
-+ 𝙁𝙤𝙘𝙪𝙨 𝘼𝙧𝙚𝙖𝙨:
-«Cloud-Native Architecture»  «AI-Enhanced Applications»  «Cross-Platform Solutions»
+<div align="center"> <a href="REPO1_URL"> <img src="PROJECT1_SCREENSHOT" width="30%" alt="AI-Driven Analytics Platform"> </a> <a href="REPO2_URL"> <img src="PROJECT2_SCREENSHOT" width="30%" alt="Cloud Microservices Architecture"> </a> <a href="REPO3_URL"> <img src="PROJECT3_SCREENSHOT" width="30%" alt="Cross-Platform Mobile Solution"> </a> </div>
