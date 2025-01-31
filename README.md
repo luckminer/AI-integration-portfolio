@@ -29,7 +29,7 @@
     <img src="movie_app_1.png" width="30%" alt="Flutter Web Movie App">  
   </a>  
   <a href="sreenary.png">  
-    <img src="PROJECT2_SCREENSHOT" width="30%" alt="Sreenary → “HD Imagery, Unfiltered">  
+    <img src="sreenary.png" width="30%" alt="Sreenary → “HD Imagery, Unfiltered">  
   </a>  
   
 </div>  
