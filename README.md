@@ -29,11 +29,9 @@
     <img src="movie_app_1.png" width="30%" alt="Flutter Web Movie App">  
   </a>  
   <a href="REPO2_URL">  
-    <img src="PROJECT2_SCREENSHOT" width="30%" alt="Cloud Microservices Architecture">  
+    <img src="PROJECT2_SCREENSHOT" width="30%" alt="Sreenary → “HD Imagery, Unfiltered">  
   </a>  
-  <a href="REPO3_URL">  
-    <img src="PROJECT3_SCREENSHOT" width="30%" alt="Cross-Platform Mobile Solution">  
-  </a>  
+  
 </div>  
 
 ---
