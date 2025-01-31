@@ -28,7 +28,7 @@
   <a href="https://github.com/Sreenu-Chandaka/movie_web_app">  
     <img src="movie_app_1.png" width="30%" alt="Flutter Web Movie App">  
   </a>  
-  <a href="sreenary">  
+  <a href="sreenary.png">  
     <img src="PROJECT2_SCREENSHOT" width="30%" alt="Sreenary → “HD Imagery, Unfiltered">  
   </a>  
   
