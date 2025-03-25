@@ -1,4 +1,3 @@
-# Hi, I'm Sreenu Chandaka 👋
 **Innovative Full-Stack Architect** | **Cloud-Native Solutions Developer** | **AI Integration Specialist**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin)](https://www.linkedin.com/in/sreenuchandaka/)
@@ -81,6 +80,5 @@ AI Integration  🌟🌟🌟🌟⟫░░░░░░░░░░░ 76.8%
 ---
 
 **"The art of engineering lies in transforming complex challenges into elegant solutions."**  
-*- Sreenu Chandaka*  
 
 ---
