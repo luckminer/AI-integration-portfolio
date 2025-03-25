@@ -41,16 +41,6 @@ Cloud Native    🌟🌟🌟🌟⟫░░░░░░░░░░░ 82.1%
 AI Integration  🌟🌟🌟🌟⟫░░░░░░░░░░░ 76.8%  
 ```
 
-
-
-### 🤝 **Collaborative Innovation**  
-**Let's Engineer Tomorrow's Solutions Today**  
-🌐 Explore my [Portfolio Website](https://sreenu-chandaka.github.io/my_portfolio/)  
-📬 Reach out via [Email](mailto:chandakasreenu0@gmail.com) or [LinkedIn](https://www.linkedin.com/in/sreenuchandaka/)  
-💡 Let's discuss AI-driven architectures or cloud-native transformations!  
-
----
-
 # 🌟 **𝙊𝙥𝙚𝙣 𝙛𝙤𝙧 𝙎𝙩𝙧𝙖𝙩𝙚𝙜𝙞𝙘 𝘾𝙤𝙡𝙡𝙖𝙗𝙤𝙧𝙖𝙩𝙞𝙤𝙣 𝙞𝙣:**  
 
 ### 🚀 **Enterprise-scale Digital Transformations**  
